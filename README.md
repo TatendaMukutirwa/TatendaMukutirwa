@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TatendaMukutirwa
-- 👀 I’m interested in Fitness and Mathematics
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Python related projects that can help me improve    
+  
 - 📫 How to reach me
 
 <!---
